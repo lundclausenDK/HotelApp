@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/HotelApp.iml" filepath="$PROJECT_DIR$/.idea/HotelApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Yogi/.idea/untitled1.iml" filepath="$PROJECT_DIR$/../Yogi/.idea/untitled1.iml" />
     </modules>
   </component>
 </project>
